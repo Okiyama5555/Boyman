@@ -1,5 +1,5 @@
-.sin
-Library/PackageCache
-Library/ShaderCashe
-Library/StateCache
+Library/PackageCache/
+Library/ShaderCache/
+Library/StateCache/
 *.sln
+obj/Debug/
